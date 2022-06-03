@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [jeffreybello.me](jeffreybello.me)
 
-- ⚡ Fun fact [I write proses](I write proses)
+- ⚡ Fun fact I write proses (sometimes)
 
 - 💬 Ask me about **vue, javascript and php**
 
