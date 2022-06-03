@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CI/CD, web development best practices**
 
-- 👨‍💻 All of my projects are available at [jeffreybello.me](jeffreybello.me)
+- 👨‍💻 All of my projects are available at [jeffreybello.me](http://jeffreybello.me)
 
 - ⚡ Fun fact I write proses (sometimes)
 
